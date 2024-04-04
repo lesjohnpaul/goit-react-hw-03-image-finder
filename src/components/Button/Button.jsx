@@ -10,7 +10,7 @@ class Button extends Component {
   render() {
     return (
       <button className={styles.Button} onClick={this.props.onClick}>
-        Load more
+        See more
       </button>
     );
   }
